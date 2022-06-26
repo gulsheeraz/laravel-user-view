@@ -1,0 +1,1 @@
+<a href="javascript:void(0)" class="edit btn btn-success btn-sm user-detail" data-id="{{ $row->id }}">View</a> 
